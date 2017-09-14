@@ -8,7 +8,8 @@
         "exclude": [
           "**/obj/**",
           "fenxu_internal_docs_20161208/**",
-          "**/includes/**"
+          "**/includes/**",
+          "_themes/**"
         ]
       }
     ],
@@ -21,7 +22,8 @@
         "exclude": [
           "**/obj/**",
           "fenxu_internal_docs_20161208/**",
-          "**/includes/**"
+          "**/includes/**",
+          "_themes/**"
         ]
       }
     ],
